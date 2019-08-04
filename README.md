@@ -24,6 +24,12 @@
 
 如果你也想加入我们，请添加[微信号](https://raw.githubusercontent.com/JackLee-pro/algorithm_plus/master/pictures/qr_code.jpg)，邀请你入群交流
 
+> 入群条件
+
+本群为程序员进阶交流群，进群需满足以下条件之一
+
+* 三年以上开发经验
+* 50+ leetcode刷题经验
 
 
 
