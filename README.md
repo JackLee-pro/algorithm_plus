@@ -10,6 +10,7 @@
 [![MIT](https://img.shields.io/badge/LICENSE-MIT-blue)](https://github.com/JackLee-pro/algorithm_plus/blob/master/LICENSE)
 [![weichat](https://img.shields.io/badge/weichat-s419505080s-green)](https://raw.githubusercontent.com/JackLee-pro/algorithm_plus/master/pictures/qr_code.jpg)
 [![Gitter chat](https://img.shields.io/badge/Chat-Gitter-ff69b4.svg?label=Chat&logo=gitter&style=flat-square)](https://gitter.im/algorithm_plus)
+[![算法专栏](https://img.shields.io/badge/LINK-%E7%AE%97%E6%B3%95%E4%B8%93%E6%A0%8F-orange)](http://gk.link/a/104fH)
 
 
 
@@ -26,7 +27,7 @@
 
 > 入群条件
 
-本群为程序员进阶交流群，进群需满足以下条件之一，还请谅解
+本群为程序员进阶交流群，进群需满足以下条件之一
 
 * 三年以上开发经验
 * 50+ leetcode刷题经验
