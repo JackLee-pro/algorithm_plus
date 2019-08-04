@@ -19,7 +19,9 @@
 
 本git仓库的目的是为了记录大家的解题过程和解题思路，方便大家回顾和学习。
 
-如果你也想加入我们，请添加微信号，邀请你入群交流。
+如果你也想加入我们，请添加[微信号](https://raw.githubusercontent.com/JackLee-pro/algorithm_plus/master/pictures/qr_code.jpg)，邀请你入群交流。
+
+
 
 
 
