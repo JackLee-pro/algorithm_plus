@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/JackLee-pro/algorithm_plus/master/pictures/algorithm_plus.png" width=""/> 
 <br/>
 
-[![weichat](https://img.shields.io/badge/weichat-s419505080s-green)](https://raw.githubusercontent.com/JackLee-pro/algorithm_plus/master/pictures/qr_code.jpg)
+[![weichat](https://img.shields.io/badge/weichat-s419505080s-green)](https://raw.githubusercontent.com/JackLee-pro/algorithm_plus/master/pictures/qr_code.jpg) [![Join the chat at https://gitter.im/algorithm_plus/community](https://badges.gitter.im/algorithm_plus/community.svg)](https://gitter.im/algorithm_plus/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 </div><br>
 
