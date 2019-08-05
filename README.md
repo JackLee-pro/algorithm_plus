@@ -11,7 +11,7 @@
 [![weichat](https://img.shields.io/badge/weichat-s419505080s-green)](https://raw.githubusercontent.com/JackLee-pro/algorithm_plus/master/pictures/qr_code.jpg)
 [![Gitter chat](https://img.shields.io/badge/Chat-Gitter-ff69b4.svg?label=Chat&logo=gitter&style=flat-square)](https://gitter.im/algorithm_plus)
 [![算法专栏](https://img.shields.io/badge/LINK-%E7%AE%97%E6%B3%95%E4%B8%93%E6%A0%8F-orange)](http://gk.link/a/104fH)
-[![学习资源](https://img.shields.io/badge/LINK-%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90-brightgreen)](https://github.com/JackLee-pro/algorithm_plus/blob/master/resources/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90.md)
+[![学习资源](https://github.com/JackLee-pro/algorithm_plus/blob/master/resources/study_resource.md)
 
 
 </div><br>
