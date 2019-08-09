@@ -18,7 +18,7 @@
 
 > `Algorithm_plus`
 
-The algorithm plus aims to create a community of learning and communication algorithms, so that everyone can learn from each other in exchanges, so that the algorithm learning is no longer a single fight.
+The algorithm plus aims to create a community of learning and communication algorithms, so that everyone can learn from each other in exchanges, thus the algorithm learning is no longer a single fight.
 
 The purpose of this git repository is to record the problem-solving process and ideas for everyone to review and study.
 
@@ -26,7 +26,7 @@ If you want to join us, please add my [WeChat](https://raw.githubusercontent.com
 
 > Group conditions
 
-This group is an advanced communication group for programmers. The group must meet one of the following conditions：
+This group is an advanced communication group for programmers. You must meet one of the following conditions：
 
 * More than three years of development experience
 * 50+ leetcode experience
