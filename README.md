@@ -14,7 +14,7 @@
 [![学习资源](https://img.shields.io/badge/LiNK-Learning%20Resources-brightgreen)](https://github.com/JackLee-pro/algorithm_plus/blob/master/resources/study_resource.md)
 </div><br>
 
-[中文版] (https://raw.githubusercontent.com/JackLee-pro/algorithm_plus/master/pictures/qr_code.jpg) 
+[中文版] (https://github.com/JackLee-pro/algorithm_plus/blob/master/README_CN.md) 
 
 > `Algorithm_plus`
 
