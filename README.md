@@ -18,7 +18,7 @@
 
 > `Algorithm_plus`
 
-The algorithm plus aims to create a community of learning and communication algorithms, so that everyone can learn from each other in exchanges, thus the algorithm learning is no longer a single fight.
+The algorithm plus aims to create a community of learning and communicating algorithms, so that everyone can learn from each other in exchanges, thus the algorithm learning is no longer a single fight.
 
 The purpose of this git repository is to record the problem-solving process and ideas for everyone to review and study.
 
