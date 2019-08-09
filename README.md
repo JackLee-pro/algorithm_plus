@@ -20,9 +20,9 @@
 
 The algorithm plus aims to create a community of learning and communication algorithms, so that everyone can learn from each other in exchanges, so that the algorithm learning is no longer a single fight.
 
-The purpose of this git repository is to record the problem-solving process and problem-solving ideas for everyone to review and learn.
+The purpose of this git repository is to record the problem-solving process and ideas for everyone to review and study.
 
-If you want to join us too, please add [WeChat](https://raw.githubusercontent.com/JackLee-pro/algorithm_plus/master/pictures/qr_code.jpg) to invite you to join the group.
+If you want to join us, please add my [WeChat](https://raw.githubusercontent.com/JackLee-pro/algorithm_plus/master/pictures/qr_code.jpg) to invite you to join the group.
 
 > Group conditions
 
