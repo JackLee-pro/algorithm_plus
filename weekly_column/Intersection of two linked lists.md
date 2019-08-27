@@ -1,7 +1,3 @@
-# 反转链表
-# 反转链表II
-# 环形链表
-# [环形链表Ⅱ](https://github.com/JackLee-pro/algorithm_plus/wiki/%E9%93%BE%E8%A1%A8%E4%B8%93%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E6%9C%9F%EF%BC%89%E2%80%94%E2%80%94%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8II)
 # [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists)
 
 ## 题目解析：
