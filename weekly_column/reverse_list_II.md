@@ -2,13 +2,13 @@
 [相关Issue](https://github.com/JackLee-pro/algorithm_plus/issues/18)
 
 ## 题目解析
-这个题是[反转链表]()的升级版，升级的地方在于，需要考虑各种状态。假设链表的长度为l，要反转从[m,n]之间的链表，要考虑，
+这个题是[反转链表](https://github.com/JackLee-pro/algorithm_plus/blob/master/weekly_column/reverse_list.md)的升级版，升级的地方在于，需要考虑各种状态。假设链表的长度为l，要反转从[m,n]之间的链表，要考虑，
 * 情况一，m=0,n<0；
 * 情况二，m>0,n=l;
 * 情况三，m>0,n<l;
 * 情况四，m=0,n=l
 
-针对于情况四，就是[反转链表]()这道题了
+针对于情况四，就是[反转链表](https://github.com/JackLee-pro/algorithm_plus/blob/master/weekly_column/reverse_list.md)这道题了
 
 ## 思路
 对于这种情况复杂的链表问题，如果强行把这四种情况融合到一个算法中来做，肯定是能做出来，但是增加了条件判断的复杂性；
