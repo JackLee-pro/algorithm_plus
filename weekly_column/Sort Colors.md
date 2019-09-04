@@ -107,34 +107,33 @@ current >= right 循环结束
 ```Java
 public static void sortColors(int[] nums) {
     int left = 0, right = nums.length - 1;
-    tag:
-    while (left < right) {
-        while (left < nums.length && nums[left] == 0) {
-            left++;
-        }
-        while (right > 0 && nums[right] == 2) {
-            right--;
-        }
-        if (right < 0 || left >= nums.length || left >= right) {
-            break;
-        }
-        if (nums[left] > nums[right]) {
-            swopNum(nums, left, right);
-        } else if (nums[left] == nums[right]) {
-            int current = left + 1;
-            while (current < right) {
-                if (nums[current] < nums[left]) {
-                    swopNum(nums, left, current);
-                    continue tag;
-                } else if (nums[right] < nums[current]) {
-                    swopNum(nums, current, right);
-                    continue tag;
-                }
-                current++;
+    tag:while (left < right) {
+            while (left < nums.length && nums[left] == 0) {
+                left++;
             }
-            return;
+            while (right > 0 && nums[right] == 2) {
+                right--;
+            }
+            if (right < 0 || left >= nums.length || left >= right) {
+                break;
+            }
+            if (nums[left] > nums[right]) {
+                swopNum(nums, left, right);
+            } else if (nums[left] == nums[right]) {
+                int current = left + 1;
+                while (current < right) {
+                    if (nums[current] < nums[left]) {
+                        swopNum(nums, left, current);
+                        continue tag;
+                    } else if (nums[right] < nums[current]) {
+                        swopNum(nums, current, right);
+                        continue tag;
+                    }
+                    current++;
+                }
+                return;
+            }
         }
-    }
 }
 
 private static void swopNum(int[] nums, int i, int j) {
@@ -148,15 +147,15 @@ private static void swopNum(int[] nums, int i, int j) {
     可以对 for/while 循环命名。在多层循环中，可以在内层循环中指定 break/continue 指定循环
 - 两数交换
     交换两个数 a 和 b 的值，可以使用如下代码：
-    ```
+```
     a = a + b;
     b = a - b;
     a = a - b;
-    ```
+```
     这里没有使用多余的临时空间来交换，具体的算法的交换的精妙之处留待你自行思考。此外，用如下位运算也可以实现两数交换。
-    
+   
 ```
     a = a ^ b;
     b = a ^ b;
-    a = a ^ b;
+    a = a ^ b;    
 ```
